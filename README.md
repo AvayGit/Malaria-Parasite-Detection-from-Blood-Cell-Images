@@ -123,16 +123,6 @@ Set `QUICK_RUN = True` in the configuration cell to use small hyperparameter gri
 
 ---
 
-## Results
-
-*(Fill in after running the final notebook. Paste the comparison table from Section 5 here.)*
-
-| Selector | Classifier | Features | Test Accuracy | Test F1 | Test AUC |
-|---|---|---|---|---|---|
-| | | | | | |
-
----
-
 ## Repository structure
 
 ```
@@ -161,4 +151,4 @@ __pycache__/
 
 ## Licence
 
-Code in this repository is released under the MIT licence. The dataset is public domain (NIH / NLM).
+Code in this repository is released under the MIT licence. The dataset is in the public domain (NIH / NLM).
